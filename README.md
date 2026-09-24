@@ -243,4 +243,4 @@ This repository serves as the official landing page for Simple Machines Forum. T
 **Get the most recent version of Simple Machines Forum today!**
 
 ---
-**Last updated:** 2026-09-23 22:03:57 UTC
+**Last updated:** 2026-09-24 01:05:56 UTC
